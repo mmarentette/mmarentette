@@ -1,8 +1,6 @@
+# Hello, GitHub! I'm Melissa Marentette 👋🏻 👩🏻‍💻
+
 <img src="https://media3.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif?cid=ecf05e47wnqmur7hv99rvx0ep0akdsdkw7lji04c8ekr94ro&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-
-## Hello, GitHub!
-# I'm Melissa Marentette 👋🏻 👩🏻‍💻
-
 
 I am a Software Engineer with a passion for energy conservation, home renovations and travel. I am a lifelong learner with the drive to continually expand my repertoire of programming languages, technologies, and frameworks.
 
